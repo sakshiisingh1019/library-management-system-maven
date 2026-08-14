@@ -108,11 +108,3 @@ Returning available books
 Run the tests using Maven:
 mvn test
 
-## FUTURE IMPROVEMENTS 
-
-Store books in a database instead of an in-memory ArrayList
-Add user/member management
-Add book search functionality
-Add due dates and fine calculation
-Add a graphical or web-based interface
-Add persistent data storage
