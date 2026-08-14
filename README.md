@@ -26,29 +26,32 @@ The project demonstrates object-oriented programming, service-based design, basi
 
 ## Project Structure
 
-library-management-system
-│
-├── src
-│   ├── main
-│   │   └── java
-│   │       └── com.sakshi.library
+## Project Structure
+
+```text
+library-management-system/
+├── src/
+│   ├── main/
+│   │   └── java/
+│   │       └── com/sakshi/library/
 │   │           ├── Book.java
 │   │           ├── LibraryApp.java
 │   │           ├── LibraryService.java
 │   │           └── LibraryServiceImpl.java
 │   │
-│   └── test
-│       └── java
-│           └── com.sakshi.library
+│   └── test/
+│       └── java/
+│           └── com/sakshi/library/
 │               ├── BookTest.java
 │               └── LibraryServiceImplTest.java
 │
 ├── pom.xml
 └── README.md
-
+```
 
 ## ARCHITECTURE
 
+```text
 LibraryApp : Handles user Interaction and the application menu
      │
      ▼
@@ -59,7 +62,8 @@ LibraryServiceImpl : Implements the library operations
      │
      ▼
    Book : Represents a book and its issue status.
-   
+   ```
+
 ## APPLICATION MENU 
 
 The application provides a console-based menu for performing library operations:
