@@ -26,8 +26,6 @@ The project demonstrates object-oriented programming, service-based design, basi
 
 ## Project Structure
 
-## Project Structure
-
 ```text
 library-management-system/
 ├── src/
