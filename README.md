@@ -110,9 +110,9 @@ mvn test
 
 ## FUTURE IMPROVEMENTS 
 
-1.Store books in a database instead of an in-memory ArrayList
-2.Add user/member management
-3.Add book search functionality
-4.Add due dates and fine calculation
-5.Add a graphical or web-based interface
-6.Add persistent data storage
+Store books in a database instead of an in-memory ArrayList
+Add user/member management
+Add book search functionality
+Add due dates and fine calculation
+Add a graphical or web-based interface
+Add persistent data storage
